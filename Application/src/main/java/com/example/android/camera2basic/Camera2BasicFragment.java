@@ -359,8 +359,8 @@ public class Camera2BasicFragment extends Fragment
             activity.runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                    // Toast.makeText(activity, text, Toast.LENGTH_SHORT).show();
-                    Toast.makeText(activity, "Photo saved!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(activity, text, Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(activity, "Photo saved!", Toast.LENGTH_SHORT).show();
                 }
             });
         }
