@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.camera2basic;
+package com.example.android.dylanneve;
 
 import android.Manifest;
 import android.app.Activity;
@@ -58,6 +58,8 @@ import android.view.TextureView;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
+
+import com.example.android.camera2basic.R;
 
 import java.io.File;
 import java.io.FileOutputStream;
