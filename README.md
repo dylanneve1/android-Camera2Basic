@@ -1,5 +1,5 @@
 
-Android Camera2Basic Sample
+Dylan's Camera2Basic fork. Thanks to Google for base.
 ===================================
 
 This sample demonstrates how to use basic functionalities of Camera2
