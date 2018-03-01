@@ -14,12 +14,10 @@
  * limitations under the License.
  */
 
-package com.example.android.dylanneve;
+package com.example.android.camera2basic;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-
-import com.example.android.camera2basic.R;
 
 public class CameraActivity extends AppCompatActivity {
 
