@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 01 22:42:07 GMT 2018
+#Thu Mar 01 22:52:18 GMT 2018
 2.base=C\:\\Users\\dylan\\Documents\\java\\android-Camera2Basic\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex
