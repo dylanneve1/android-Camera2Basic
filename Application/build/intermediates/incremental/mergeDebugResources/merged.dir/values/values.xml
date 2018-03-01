@@ -443,20 +443,19 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">Dylan's Camera</string>
+    <string name="app_name">Camera by Dylan</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
     <string name="description_info">Info</string>
     <string name="intro_message">
         <![CDATA[
         
             
-            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
-            you can display camera preview and take pictures.
+            This app is a fork of Google\'s Camera example. Built upon by dylanneve1.
             
         
         ]]>
     </string>
-    <string name="picture">Picture</string>
+    <string name="picture">Capture</string>
     <string name="request_permission">This sample needs camera permission.</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
